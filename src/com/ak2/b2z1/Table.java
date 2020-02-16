@@ -15,7 +15,7 @@ public class Table {
         for (int i = 0; i < tab.length; i++) {
             tab[i] = rand.nextInt(100);
         }
-        //wyświetlanie
+        // wyświetlanie
         printTab(tab);
         System.out.println();
         //wyświetlanie od tyłu
